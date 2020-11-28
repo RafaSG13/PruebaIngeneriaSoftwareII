@@ -1,4 +1,4 @@
-package Estatico.Dominio;
+package Dominio;
 
 import java.util.ArrayList;
 

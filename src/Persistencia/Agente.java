@@ -1,4 +1,4 @@
-package Estatico.Persistencia;
+package Persistencia;
 
 public class Agente {
 
